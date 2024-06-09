@@ -1,7 +1,5 @@
 import numpy as np
 from timeit import default_timer as timer
-from timeit import timeit
-from datetime import timedelta
 
 
 # defining data to sort
